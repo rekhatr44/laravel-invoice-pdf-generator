@@ -34,5 +34,5 @@ The project currently supports the following operations:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/invoice-pdf-generator.git
+git clone https://github.com/rekhatr44/laravel-invoice-pdf-generator.git
 cd invoice-api
